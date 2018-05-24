@@ -1,0 +1,1 @@
+Rough stuff/outline of things needed, its pretty trash now but it's more of a brainstorming session. Need to find graphics library
